@@ -13,3 +13,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Task: Update App Module
 
 ### Task: Create Material Table
+
+### Task: Create a Dialog Component
