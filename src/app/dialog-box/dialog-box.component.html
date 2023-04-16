@@ -1,9 +1,9 @@
 <!-- dialog-box.component.html -->
-<h1 mat-dialog-title>
+<div mat-dialog-title>
    {{ action }} Row # {{local_data.id }}
-</h1>
+</div>
 <div mat-dialog-content>
-  <mat-form-field *ngIf="action != 'Delete'; else elseTemplate">
+  <mat-form-field *ngIf="action !== 'Delete'">
     <input
       placeholder="id"
       matInput
