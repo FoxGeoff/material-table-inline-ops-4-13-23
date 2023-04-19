@@ -1,11 +1,11 @@
-# MaterialTableInlineOps4-13-2023
+# MaterialTableInlineOps 4-13-2023
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
 ## Project Introduction
 
 1. Online ref: <https://www.freakyjolly.com/angular-material-table-operations-using-dialog/>
-2> For layout ref: <https://getbootstrap.com/docs/5.3/layout/containers/>
+2. For layout ref: <https://getbootstrap.com/docs/5.3/layout/containers/>
 
 ### Task: Install Angular Material
 
